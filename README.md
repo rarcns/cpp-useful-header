@@ -6,6 +6,6 @@ cpp useful header.
 このファイルはまだ開発中で、公開している段階ではエラーがありませんが、これからもっと機能が増えます。
 
 # ライセンス
-以下のサイトのRar-LicenseとMITライセンスを使用し、これに法的効力を持たせるものとします。
+以下のサイトのRar-license-generalとMITライセンスを使用し、これに法的効力を持たせるものとします。
 MITライセンスはリポジトリにも含まれています。
 https://rarcns.github.io/license-page/
